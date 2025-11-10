@@ -1,5 +1,5 @@
 ## 🌎 Live Demo
-Visit the live website here: [Nature Beauty](https://chaitalirane16.github.io/NatureBeauty/)
+Visit the live website here: [Nature Beauty](https://chaitalirane16.github.io/nature-gallery/)
 
 # 🌿 Nature Beauty
 
