@@ -26,6 +26,13 @@ Built using **HTML, CSS, and JavaScript**, this project includes dynamic feature
 
 ---
 
+## 📸 Screenshot
+
+<img width="1888" height="892" alt="homepage png" src="https://github.com/user-attachments/assets/b6925ce5-1f9c-4575-a224-221c93642513" />
+<img width="1879" height="885" alt="gallery png" src="https://github.com/user-attachments/assets/462654bd-9e7a-4e14-9fb6-7187d59c7b24" />
+
+---
+
 ## 🌼 **🚀 How to Run the Project**
 
  **Download or Clone the Repository**
