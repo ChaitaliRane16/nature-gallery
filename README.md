@@ -39,4 +39,9 @@ Built using **HTML, CSS, and JavaScript**, this project includes dynamic feature
    ```bash
      git clone https://github.com/<your-username>/NatureBeauty.git
 
+---
+
+## 🌎 Live Demo
+Visit the live website here: [Nature Beauty](https://chaitalirane16.github.io/NatureBeauty/)
+
 
