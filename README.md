@@ -1,3 +1,6 @@
+## 🌎 Live Demo
+Visit the live website here: [Nature Beauty](https://chaitalirane16.github.io/NatureBeauty/)
+
 # 🌿 Nature Beauty
 
 **Nature Beauty** is a responsive and interactive web gallery that celebrates the beauty of nature through stunning imagery and smooth visual effects.  
@@ -38,10 +41,4 @@ Built using **HTML, CSS, and JavaScript**, this project includes dynamic feature
  **Download or Clone the Repository**
    ```bash
      git clone https://github.com/<your-username>/NatureBeauty.git
-
----
-
-## 🌎 Live Demo
-Visit the live website here: [Nature Beauty](https://chaitalirane16.github.io/NatureBeauty/)
-
 
